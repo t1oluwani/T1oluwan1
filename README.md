@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tioluwani
+- 👋 Hi, I’m Tioluwani God's Favour Akinloye
 - 👀 I’m interested in Artificial Intelligience and Machine Learing
 - 🌱 I’m currently studying Computing Science at the University of Alberta
 - 💞️ I’m looking to collaborate on any project that could expand my coding knowledge
